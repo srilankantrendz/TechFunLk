@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Fun Tech Stuff</title>
-    <link>https://github.com/srilankantrendz/TechFunLk/posts/</link>
+    <link>https://srilankantrendz.github.io/TechFunLk/posts/</link>
     <description>Recent content in Posts on Fun Tech Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2020 13:50:54 +0530</lastBuildDate><atom:link href="https://github.com/srilankantrendz/TechFunLk/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Nov 2020 13:50:54 +0530</lastBuildDate><atom:link href="https://srilankantrendz.github.io/TechFunLk/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://github.com/srilankantrendz/TechFunLk/posts/my-first-post/</link>
+      <link>https://srilankantrendz.github.io/TechFunLk/posts/my-first-post/</link>
       <pubDate>Wed, 11 Nov 2020 13:50:54 +0530</pubDate>
       
-      <guid>https://github.com/srilankantrendz/TechFunLk/posts/my-first-post/</guid>
+      <guid>https://srilankantrendz.github.io/TechFunLk/posts/my-first-post/</guid>
       <description>ඔන්න ඕකයි තත්වෙ&amp;hellip;
 Three hundred and forty-eight years, six months, and nineteen days ago to-day, the Parisians awoke to the sound of all the bells in the triple circuit of the city, the university, and the town ringing a full peal.
 The sixth of January, 1482, is not, however, a day of which history has preserved the memory. There was nothing notable in the event which thus set the bells and the bourgeois of Paris in a ferment from early morning.</description>
@@ -20,10 +20,10 @@ The sixth of January, 1482, is not, however, a day of which history has preserve
     
     <item>
       <title>My Second Awesome Post</title>
-      <link>https://github.com/srilankantrendz/TechFunLk/posts/my-second-post/</link>
+      <link>https://srilankantrendz.github.io/TechFunLk/posts/my-second-post/</link>
       <pubDate>Wed, 11 Nov 2020 13:50:54 +0530</pubDate>
       
-      <guid>https://github.com/srilankantrendz/TechFunLk/posts/my-second-post/</guid>
+      <guid>https://srilankantrendz.github.io/TechFunLk/posts/my-second-post/</guid>
       <description>Hi there &amp;hellip;
 Colloquial Singaporean English, better known as Singlish, is an English-based creole language spoken in Singapore. The term Singlish is a blend of Singaporean slang and English and was first recorded in 1973.
 As English is one of Singapore&amp;rsquo;s official languages, Singlish is regarded as having low prestige.</description>
