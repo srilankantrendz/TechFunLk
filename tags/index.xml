@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Fun Tech Stuff</title>
+    <link>https://github.com/srilankantrendz/TechFunLk/tags/</link>
+    <description>Recent content in Tags on Fun Tech Stuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Nov 2020 13:50:54 +0530</lastBuildDate><atom:link href="https://github.com/srilankantrendz/TechFunLk/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>scene</title>
+      <link>https://github.com/srilankantrendz/TechFunLk/tags/scene/</link>
+      <pubDate>Wed, 11 Nov 2020 13:50:54 +0530</pubDate>
+      
+      <guid>https://github.com/srilankantrendz/TechFunLk/tags/scene/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
